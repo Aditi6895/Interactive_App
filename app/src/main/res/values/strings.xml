@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Interactive App</string>
+    <string name="dark">Dark</string>
+    <string name="read">Read</string>
+</resources>
